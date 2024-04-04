@@ -51,9 +51,4 @@ with open('result_file.txt', 'w') as result_file:
         result_file.write('\n')
         result_file.flush()
 print(result_file)
-# t = dict_1[count_line_1][2]
-# with open('result_file', 'w') as res_file:
-#     res_file.write(('').join(t))
-# print(t)
-# print(res_file)
 
